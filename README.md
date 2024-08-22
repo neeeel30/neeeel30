@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **neelp3093@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1deuP-4rR9jsMI8Etx2jz_atXA0WT0LEs/view?amp;usp=embed_facebook](https://drive.google.com/file/d/1deuP-4rR9jsMI8Etx2jz_atXA0WT0LEs/view?amp;usp=embed_facebook)
+- 📄 Know about my experiences for Full Stack and Software Development [Link](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences in Data Analytics / Data Science [Link]((https://drive.google.com/drive/u/0/my-drive))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
